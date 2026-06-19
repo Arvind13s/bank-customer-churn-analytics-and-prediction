@@ -88,7 +88,8 @@ Bank-Customer-Churn-Analytics/
 ├── data/
 │   ├── BankChurners.csv
 │   ├── cleaned_bank_churn.csv
-│   └── model_metrics.csv
+│   ├── model_metrics.csv
+│   └── confusion_metrix.csv
 │
 ├── notebooks/
 │   ├── EDA.ipynb
