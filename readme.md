@@ -264,15 +264,15 @@ The trained XGBoost model can help identify high-risk customers proactively and 
 
 ### Executive Overview
 
-![Executive Overview](screenshots/Page1png)
+![Executive Overview](  https://github.com/Arvind13s/bank-customer-churn-analytics-and-prediction/blob/main/screenshots/Page1.png)
 
 ### Customer Segmentation
 
-![Customer Segmentation](screenshots/Page2.png)
+![Customer Segmentation](https://github.com/Arvind13s/bank-customer-churn-analytics-and-prediction/blob/main/screenshots/Page2.png)
 
 ### Prediction Model Insights
 
-![Prediction Model](screenshots/Page3.png)
+![Prediction Model](https://github.com/Arvind13s/bank-customer-churn-analytics-and-prediction/blob/main/screenshots/Page3.png)
 
 ---
 
