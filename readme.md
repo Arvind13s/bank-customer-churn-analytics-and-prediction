@@ -92,8 +92,10 @@ Bank-Customer-Churn-Analytics/
 │   └── confusion_metrix.csv
 │
 ├── notebooks/
-│   ├── EDA.ipynb
-│   ├── feature_engineering.ipynb
+│   ├── data_cleaning.ipynb
+│   ├── eda.ipynb
+│   ├── features.ipynb
+│   ├── shap_analysis.ipynb
 │   └── model_building.ipynb
 │
 ├── dashboard/
